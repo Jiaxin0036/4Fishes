@@ -1,0 +1,710 @@
+unit_id,max_cycle,dataset,conditions,fault_mode
+FD001_1,192,FD001,Sea Level,HPC Degradation
+FD001_10,222,FD001,Sea Level,HPC Degradation
+FD001_100,200,FD001,Sea Level,HPC Degradation
+FD001_11,240,FD001,Sea Level,HPC Degradation
+FD001_12,170,FD001,Sea Level,HPC Degradation
+FD001_13,163,FD001,Sea Level,HPC Degradation
+FD001_14,180,FD001,Sea Level,HPC Degradation
+FD001_15,207,FD001,Sea Level,HPC Degradation
+FD001_16,209,FD001,Sea Level,HPC Degradation
+FD001_17,276,FD001,Sea Level,HPC Degradation
+FD001_18,195,FD001,Sea Level,HPC Degradation
+FD001_19,158,FD001,Sea Level,HPC Degradation
+FD001_2,287,FD001,Sea Level,HPC Degradation
+FD001_20,234,FD001,Sea Level,HPC Degradation
+FD001_21,195,FD001,Sea Level,HPC Degradation
+FD001_22,202,FD001,Sea Level,HPC Degradation
+FD001_23,168,FD001,Sea Level,HPC Degradation
+FD001_24,147,FD001,Sea Level,HPC Degradation
+FD001_25,230,FD001,Sea Level,HPC Degradation
+FD001_26,199,FD001,Sea Level,HPC Degradation
+FD001_27,156,FD001,Sea Level,HPC Degradation
+FD001_28,165,FD001,Sea Level,HPC Degradation
+FD001_29,163,FD001,Sea Level,HPC Degradation
+FD001_3,179,FD001,Sea Level,HPC Degradation
+FD001_30,194,FD001,Sea Level,HPC Degradation
+FD001_31,234,FD001,Sea Level,HPC Degradation
+FD001_32,191,FD001,Sea Level,HPC Degradation
+FD001_33,200,FD001,Sea Level,HPC Degradation
+FD001_34,195,FD001,Sea Level,HPC Degradation
+FD001_35,181,FD001,Sea Level,HPC Degradation
+FD001_36,158,FD001,Sea Level,HPC Degradation
+FD001_37,170,FD001,Sea Level,HPC Degradation
+FD001_38,194,FD001,Sea Level,HPC Degradation
+FD001_39,128,FD001,Sea Level,HPC Degradation
+FD001_4,189,FD001,Sea Level,HPC Degradation
+FD001_40,188,FD001,Sea Level,HPC Degradation
+FD001_41,216,FD001,Sea Level,HPC Degradation
+FD001_42,196,FD001,Sea Level,HPC Degradation
+FD001_43,207,FD001,Sea Level,HPC Degradation
+FD001_44,192,FD001,Sea Level,HPC Degradation
+FD001_45,158,FD001,Sea Level,HPC Degradation
+FD001_46,256,FD001,Sea Level,HPC Degradation
+FD001_47,214,FD001,Sea Level,HPC Degradation
+FD001_48,231,FD001,Sea Level,HPC Degradation
+FD001_49,215,FD001,Sea Level,HPC Degradation
+FD001_5,269,FD001,Sea Level,HPC Degradation
+FD001_50,198,FD001,Sea Level,HPC Degradation
+FD001_51,213,FD001,Sea Level,HPC Degradation
+FD001_52,213,FD001,Sea Level,HPC Degradation
+FD001_53,195,FD001,Sea Level,HPC Degradation
+FD001_54,257,FD001,Sea Level,HPC Degradation
+FD001_55,193,FD001,Sea Level,HPC Degradation
+FD001_56,275,FD001,Sea Level,HPC Degradation
+FD001_57,137,FD001,Sea Level,HPC Degradation
+FD001_58,147,FD001,Sea Level,HPC Degradation
+FD001_59,231,FD001,Sea Level,HPC Degradation
+FD001_6,188,FD001,Sea Level,HPC Degradation
+FD001_60,172,FD001,Sea Level,HPC Degradation
+FD001_61,185,FD001,Sea Level,HPC Degradation
+FD001_62,180,FD001,Sea Level,HPC Degradation
+FD001_63,174,FD001,Sea Level,HPC Degradation
+FD001_64,283,FD001,Sea Level,HPC Degradation
+FD001_65,153,FD001,Sea Level,HPC Degradation
+FD001_66,202,FD001,Sea Level,HPC Degradation
+FD001_67,313,FD001,Sea Level,HPC Degradation
+FD001_68,199,FD001,Sea Level,HPC Degradation
+FD001_69,362,FD001,Sea Level,HPC Degradation
+FD001_7,259,FD001,Sea Level,HPC Degradation
+FD001_70,137,FD001,Sea Level,HPC Degradation
+FD001_71,208,FD001,Sea Level,HPC Degradation
+FD001_72,213,FD001,Sea Level,HPC Degradation
+FD001_73,213,FD001,Sea Level,HPC Degradation
+FD001_74,166,FD001,Sea Level,HPC Degradation
+FD001_75,229,FD001,Sea Level,HPC Degradation
+FD001_76,210,FD001,Sea Level,HPC Degradation
+FD001_77,154,FD001,Sea Level,HPC Degradation
+FD001_78,231,FD001,Sea Level,HPC Degradation
+FD001_79,199,FD001,Sea Level,HPC Degradation
+FD001_8,150,FD001,Sea Level,HPC Degradation
+FD001_80,185,FD001,Sea Level,HPC Degradation
+FD001_81,240,FD001,Sea Level,HPC Degradation
+FD001_82,214,FD001,Sea Level,HPC Degradation
+FD001_83,293,FD001,Sea Level,HPC Degradation
+FD001_84,267,FD001,Sea Level,HPC Degradation
+FD001_85,188,FD001,Sea Level,HPC Degradation
+FD001_86,278,FD001,Sea Level,HPC Degradation
+FD001_87,178,FD001,Sea Level,HPC Degradation
+FD001_88,213,FD001,Sea Level,HPC Degradation
+FD001_89,217,FD001,Sea Level,HPC Degradation
+FD001_9,201,FD001,Sea Level,HPC Degradation
+FD001_90,154,FD001,Sea Level,HPC Degradation
+FD001_91,135,FD001,Sea Level,HPC Degradation
+FD001_92,341,FD001,Sea Level,HPC Degradation
+FD001_93,155,FD001,Sea Level,HPC Degradation
+FD001_94,258,FD001,Sea Level,HPC Degradation
+FD001_95,283,FD001,Sea Level,HPC Degradation
+FD001_96,336,FD001,Sea Level,HPC Degradation
+FD001_97,202,FD001,Sea Level,HPC Degradation
+FD001_98,156,FD001,Sea Level,HPC Degradation
+FD001_99,185,FD001,Sea Level,HPC Degradation
+FD002_1,149,FD002,Multiple,HPC Degradation
+FD002_10,184,FD002,Multiple,HPC Degradation
+FD002_100,212,FD002,Multiple,HPC Degradation
+FD002_101,211,FD002,Multiple,HPC Degradation
+FD002_102,164,FD002,Multiple,HPC Degradation
+FD002_103,280,FD002,Multiple,HPC Degradation
+FD002_104,228,FD002,Multiple,HPC Degradation
+FD002_105,303,FD002,Multiple,HPC Degradation
+FD002_106,272,FD002,Multiple,HPC Degradation
+FD002_107,145,FD002,Multiple,HPC Degradation
+FD002_108,156,FD002,Multiple,HPC Degradation
+FD002_109,220,FD002,Multiple,HPC Degradation
+FD002_11,271,FD002,Multiple,HPC Degradation
+FD002_110,221,FD002,Multiple,HPC Degradation
+FD002_111,200,FD002,Multiple,HPC Degradation
+FD002_112,378,FD002,Multiple,HPC Degradation
+FD002_113,232,FD002,Multiple,HPC Degradation
+FD002_114,203,FD002,Multiple,HPC Degradation
+FD002_115,206,FD002,Multiple,HPC Degradation
+FD002_116,207,FD002,Multiple,HPC Degradation
+FD002_117,177,FD002,Multiple,HPC Degradation
+FD002_118,344,FD002,Multiple,HPC Degradation
+FD002_119,174,FD002,Multiple,HPC Degradation
+FD002_12,249,FD002,Multiple,HPC Degradation
+FD002_120,129,FD002,Multiple,HPC Degradation
+FD002_121,210,FD002,Multiple,HPC Degradation
+FD002_122,185,FD002,Multiple,HPC Degradation
+FD002_123,226,FD002,Multiple,HPC Degradation
+FD002_124,267,FD002,Multiple,HPC Degradation
+FD002_125,168,FD002,Multiple,HPC Degradation
+FD002_126,199,FD002,Multiple,HPC Degradation
+FD002_127,256,FD002,Multiple,HPC Degradation
+FD002_128,303,FD002,Multiple,HPC Degradation
+FD002_129,202,FD002,Multiple,HPC Degradation
+FD002_13,227,FD002,Multiple,HPC Degradation
+FD002_130,182,FD002,Multiple,HPC Degradation
+FD002_131,280,FD002,Multiple,HPC Degradation
+FD002_132,183,FD002,Multiple,HPC Degradation
+FD002_133,159,FD002,Multiple,HPC Degradation
+FD002_134,247,FD002,Multiple,HPC Degradation
+FD002_135,294,FD002,Multiple,HPC Degradation
+FD002_136,160,FD002,Multiple,HPC Degradation
+FD002_137,148,FD002,Multiple,HPC Degradation
+FD002_138,200,FD002,Multiple,HPC Degradation
+FD002_139,194,FD002,Multiple,HPC Degradation
+FD002_14,193,FD002,Multiple,HPC Degradation
+FD002_140,214,FD002,Multiple,HPC Degradation
+FD002_141,163,FD002,Multiple,HPC Degradation
+FD002_142,208,FD002,Multiple,HPC Degradation
+FD002_143,166,FD002,Multiple,HPC Degradation
+FD002_144,224,FD002,Multiple,HPC Degradation
+FD002_145,251,FD002,Multiple,HPC Degradation
+FD002_146,263,FD002,Multiple,HPC Degradation
+FD002_147,207,FD002,Multiple,HPC Degradation
+FD002_148,279,FD002,Multiple,HPC Degradation
+FD002_149,289,FD002,Multiple,HPC Degradation
+FD002_15,209,FD002,Multiple,HPC Degradation
+FD002_150,222,FD002,Multiple,HPC Degradation
+FD002_151,177,FD002,Multiple,HPC Degradation
+FD002_152,184,FD002,Multiple,HPC Degradation
+FD002_153,292,FD002,Multiple,HPC Degradation
+FD002_154,193,FD002,Multiple,HPC Degradation
+FD002_155,226,FD002,Multiple,HPC Degradation
+FD002_156,299,FD002,Multiple,HPC Degradation
+FD002_157,237,FD002,Multiple,HPC Degradation
+FD002_158,308,FD002,Multiple,HPC Degradation
+FD002_159,241,FD002,Multiple,HPC Degradation
+FD002_16,154,FD002,Multiple,HPC Degradation
+FD002_160,212,FD002,Multiple,HPC Degradation
+FD002_161,224,FD002,Multiple,HPC Degradation
+FD002_162,194,FD002,Multiple,HPC Degradation
+FD002_163,203,FD002,Multiple,HPC Degradation
+FD002_164,249,FD002,Multiple,HPC Degradation
+FD002_165,165,FD002,Multiple,HPC Degradation
+FD002_166,204,FD002,Multiple,HPC Degradation
+FD002_167,232,FD002,Multiple,HPC Degradation
+FD002_168,217,FD002,Multiple,HPC Degradation
+FD002_169,185,FD002,Multiple,HPC Degradation
+FD002_17,180,FD002,Multiple,HPC Degradation
+FD002_170,179,FD002,Multiple,HPC Degradation
+FD002_171,258,FD002,Multiple,HPC Degradation
+FD002_172,174,FD002,Multiple,HPC Degradation
+FD002_173,151,FD002,Multiple,HPC Degradation
+FD002_174,193,FD002,Multiple,HPC Degradation
+FD002_175,202,FD002,Multiple,HPC Degradation
+FD002_176,164,FD002,Multiple,HPC Degradation
+FD002_177,181,FD002,Multiple,HPC Degradation
+FD002_178,148,FD002,Multiple,HPC Degradation
+FD002_179,181,FD002,Multiple,HPC Degradation
+FD002_18,209,FD002,Multiple,HPC Degradation
+FD002_180,297,FD002,Multiple,HPC Degradation
+FD002_181,255,FD002,Multiple,HPC Degradation
+FD002_182,200,FD002,Multiple,HPC Degradation
+FD002_183,207,FD002,Multiple,HPC Degradation
+FD002_184,171,FD002,Multiple,HPC Degradation
+FD002_185,162,FD002,Multiple,HPC Degradation
+FD002_186,194,FD002,Multiple,HPC Degradation
+FD002_187,168,FD002,Multiple,HPC Degradation
+FD002_188,148,FD002,Multiple,HPC Degradation
+FD002_189,209,FD002,Multiple,HPC Degradation
+FD002_19,163,FD002,Multiple,HPC Degradation
+FD002_190,257,FD002,Multiple,HPC Degradation
+FD002_191,219,FD002,Multiple,HPC Degradation
+FD002_192,133,FD002,Multiple,HPC Degradation
+FD002_193,172,FD002,Multiple,HPC Degradation
+FD002_194,148,FD002,Multiple,HPC Degradation
+FD002_195,190,FD002,Multiple,HPC Degradation
+FD002_196,239,FD002,Multiple,HPC Degradation
+FD002_197,154,FD002,Multiple,HPC Degradation
+FD002_198,205,FD002,Multiple,HPC Degradation
+FD002_199,219,FD002,Multiple,HPC Degradation
+FD002_2,269,FD002,Multiple,HPC Degradation
+FD002_20,154,FD002,Multiple,HPC Degradation
+FD002_200,227,FD002,Multiple,HPC Degradation
+FD002_201,191,FD002,Multiple,HPC Degradation
+FD002_202,197,FD002,Multiple,HPC Degradation
+FD002_203,269,FD002,Multiple,HPC Degradation
+FD002_204,237,FD002,Multiple,HPC Degradation
+FD002_205,198,FD002,Multiple,HPC Degradation
+FD002_206,221,FD002,Multiple,HPC Degradation
+FD002_207,184,FD002,Multiple,HPC Degradation
+FD002_208,150,FD002,Multiple,HPC Degradation
+FD002_209,201,FD002,Multiple,HPC Degradation
+FD002_21,189,FD002,Multiple,HPC Degradation
+FD002_210,184,FD002,Multiple,HPC Degradation
+FD002_211,214,FD002,Multiple,HPC Degradation
+FD002_212,149,FD002,Multiple,HPC Degradation
+FD002_213,196,FD002,Multiple,HPC Degradation
+FD002_214,146,FD002,Multiple,HPC Degradation
+FD002_215,226,FD002,Multiple,HPC Degradation
+FD002_216,229,FD002,Multiple,HPC Degradation
+FD002_217,162,FD002,Multiple,HPC Degradation
+FD002_218,237,FD002,Multiple,HPC Degradation
+FD002_219,156,FD002,Multiple,HPC Degradation
+FD002_22,192,FD002,Multiple,HPC Degradation
+FD002_220,234,FD002,Multiple,HPC Degradation
+FD002_221,178,FD002,Multiple,HPC Degradation
+FD002_222,195,FD002,Multiple,HPC Degradation
+FD002_223,218,FD002,Multiple,HPC Degradation
+FD002_224,174,FD002,Multiple,HPC Degradation
+FD002_225,156,FD002,Multiple,HPC Degradation
+FD002_226,178,FD002,Multiple,HPC Degradation
+FD002_227,184,FD002,Multiple,HPC Degradation
+FD002_228,262,FD002,Multiple,HPC Degradation
+FD002_229,176,FD002,Multiple,HPC Degradation
+FD002_23,211,FD002,Multiple,HPC Degradation
+FD002_230,186,FD002,Multiple,HPC Degradation
+FD002_231,144,FD002,Multiple,HPC Degradation
+FD002_232,242,FD002,Multiple,HPC Degradation
+FD002_233,190,FD002,Multiple,HPC Degradation
+FD002_234,159,FD002,Multiple,HPC Degradation
+FD002_235,183,FD002,Multiple,HPC Degradation
+FD002_236,239,FD002,Multiple,HPC Degradation
+FD002_237,209,FD002,Multiple,HPC Degradation
+FD002_238,156,FD002,Multiple,HPC Degradation
+FD002_239,263,FD002,Multiple,HPC Degradation
+FD002_24,191,FD002,Multiple,HPC Degradation
+FD002_240,266,FD002,Multiple,HPC Degradation
+FD002_241,183,FD002,Multiple,HPC Degradation
+FD002_242,273,FD002,Multiple,HPC Degradation
+FD002_243,230,FD002,Multiple,HPC Degradation
+FD002_244,128,FD002,Multiple,HPC Degradation
+FD002_245,253,FD002,Multiple,HPC Degradation
+FD002_246,194,FD002,Multiple,HPC Degradation
+FD002_247,197,FD002,Multiple,HPC Degradation
+FD002_248,234,FD002,Multiple,HPC Degradation
+FD002_249,202,FD002,Multiple,HPC Degradation
+FD002_25,205,FD002,Multiple,HPC Degradation
+FD002_250,184,FD002,Multiple,HPC Degradation
+FD002_251,266,FD002,Multiple,HPC Degradation
+FD002_252,135,FD002,Multiple,HPC Degradation
+FD002_253,149,FD002,Multiple,HPC Degradation
+FD002_254,260,FD002,Multiple,HPC Degradation
+FD002_255,340,FD002,Multiple,HPC Degradation
+FD002_256,163,FD002,Multiple,HPC Degradation
+FD002_257,309,FD002,Multiple,HPC Degradation
+FD002_258,143,FD002,Multiple,HPC Degradation
+FD002_259,205,FD002,Multiple,HPC Degradation
+FD002_26,187,FD002,Multiple,HPC Degradation
+FD002_260,316,FD002,Multiple,HPC Degradation
+FD002_27,176,FD002,Multiple,HPC Degradation
+FD002_28,200,FD002,Multiple,HPC Degradation
+FD002_29,151,FD002,Multiple,HPC Degradation
+FD002_3,206,FD002,Multiple,HPC Degradation
+FD002_30,166,FD002,Multiple,HPC Degradation
+FD002_31,343,FD002,Multiple,HPC Degradation
+FD002_32,281,FD002,Multiple,HPC Degradation
+FD002_33,195,FD002,Multiple,HPC Degradation
+FD002_34,205,FD002,Multiple,HPC Degradation
+FD002_35,196,FD002,Multiple,HPC Degradation
+FD002_36,203,FD002,Multiple,HPC Degradation
+FD002_37,210,FD002,Multiple,HPC Degradation
+FD002_38,177,FD002,Multiple,HPC Degradation
+FD002_39,214,FD002,Multiple,HPC Degradation
+FD002_4,235,FD002,Multiple,HPC Degradation
+FD002_40,193,FD002,Multiple,HPC Degradation
+FD002_41,262,FD002,Multiple,HPC Degradation
+FD002_42,221,FD002,Multiple,HPC Degradation
+FD002_43,211,FD002,Multiple,HPC Degradation
+FD002_44,205,FD002,Multiple,HPC Degradation
+FD002_45,151,FD002,Multiple,HPC Degradation
+FD002_46,201,FD002,Multiple,HPC Degradation
+FD002_47,246,FD002,Multiple,HPC Degradation
+FD002_48,239,FD002,Multiple,HPC Degradation
+FD002_49,168,FD002,Multiple,HPC Degradation
+FD002_5,154,FD002,Multiple,HPC Degradation
+FD002_50,222,FD002,Multiple,HPC Degradation
+FD002_51,293,FD002,Multiple,HPC Degradation
+FD002_52,174,FD002,Multiple,HPC Degradation
+FD002_53,148,FD002,Multiple,HPC Degradation
+FD002_54,199,FD002,Multiple,HPC Degradation
+FD002_55,159,FD002,Multiple,HPC Degradation
+FD002_56,163,FD002,Multiple,HPC Degradation
+FD002_57,140,FD002,Multiple,HPC Degradation
+FD002_58,162,FD002,Multiple,HPC Degradation
+FD002_59,194,FD002,Multiple,HPC Degradation
+FD002_6,175,FD002,Multiple,HPC Degradation
+FD002_60,177,FD002,Multiple,HPC Degradation
+FD002_61,218,FD002,Multiple,HPC Degradation
+FD002_62,184,FD002,Multiple,HPC Degradation
+FD002_63,168,FD002,Multiple,HPC Degradation
+FD002_64,282,FD002,Multiple,HPC Degradation
+FD002_65,206,FD002,Multiple,HPC Degradation
+FD002_66,170,FD002,Multiple,HPC Degradation
+FD002_67,145,FD002,Multiple,HPC Degradation
+FD002_68,185,FD002,Multiple,HPC Degradation
+FD002_69,136,FD002,Multiple,HPC Degradation
+FD002_7,174,FD002,Multiple,HPC Degradation
+FD002_70,156,FD002,Multiple,HPC Degradation
+FD002_71,194,FD002,Multiple,HPC Degradation
+FD002_72,196,FD002,Multiple,HPC Degradation
+FD002_73,239,FD002,Multiple,HPC Degradation
+FD002_74,158,FD002,Multiple,HPC Degradation
+FD002_75,231,FD002,Multiple,HPC Degradation
+FD002_76,244,FD002,Multiple,HPC Degradation
+FD002_77,185,FD002,Multiple,HPC Degradation
+FD002_78,161,FD002,Multiple,HPC Degradation
+FD002_79,181,FD002,Multiple,HPC Degradation
+FD002_8,151,FD002,Multiple,HPC Degradation
+FD002_80,221,FD002,Multiple,HPC Degradation
+FD002_81,288,FD002,Multiple,HPC Degradation
+FD002_82,200,FD002,Multiple,HPC Degradation
+FD002_83,170,FD002,Multiple,HPC Degradation
+FD002_84,259,FD002,Multiple,HPC Degradation
+FD002_85,347,FD002,Multiple,HPC Degradation
+FD002_86,190,FD002,Multiple,HPC Degradation
+FD002_87,170,FD002,Multiple,HPC Degradation
+FD002_88,365,FD002,Multiple,HPC Degradation
+FD002_89,188,FD002,Multiple,HPC Degradation
+FD002_9,199,FD002,Multiple,HPC Degradation
+FD002_90,188,FD002,Multiple,HPC Degradation
+FD002_91,245,FD002,Multiple,HPC Degradation
+FD002_92,188,FD002,Multiple,HPC Degradation
+FD002_93,189,FD002,Multiple,HPC Degradation
+FD002_94,306,FD002,Multiple,HPC Degradation
+FD002_95,198,FD002,Multiple,HPC Degradation
+FD002_96,208,FD002,Multiple,HPC Degradation
+FD002_97,145,FD002,Multiple,HPC Degradation
+FD002_98,167,FD002,Multiple,HPC Degradation
+FD002_99,202,FD002,Multiple,HPC Degradation
+FD003_1,259,FD003,Sea Level,HPC + Fan Degradation
+FD003_10,481,FD003,Sea Level,HPC + Fan Degradation
+FD003_100,152,FD003,Sea Level,HPC + Fan Degradation
+FD003_11,197,FD003,Sea Level,HPC + Fan Degradation
+FD003_12,170,FD003,Sea Level,HPC + Fan Degradation
+FD003_13,185,FD003,Sea Level,HPC + Fan Degradation
+FD003_14,207,FD003,Sea Level,HPC + Fan Degradation
+FD003_15,202,FD003,Sea Level,HPC + Fan Degradation
+FD003_16,344,FD003,Sea Level,HPC + Fan Degradation
+FD003_17,312,FD003,Sea Level,HPC + Fan Degradation
+FD003_18,447,FD003,Sea Level,HPC + Fan Degradation
+FD003_19,229,FD003,Sea Level,HPC + Fan Degradation
+FD003_2,253,FD003,Sea Level,HPC + Fan Degradation
+FD003_20,338,FD003,Sea Level,HPC + Fan Degradation
+FD003_21,220,FD003,Sea Level,HPC + Fan Degradation
+FD003_22,192,FD003,Sea Level,HPC + Fan Degradation
+FD003_23,196,FD003,Sea Level,HPC + Fan Degradation
+FD003_24,494,FD003,Sea Level,HPC + Fan Degradation
+FD003_25,193,FD003,Sea Level,HPC + Fan Degradation
+FD003_26,243,FD003,Sea Level,HPC + Fan Degradation
+FD003_27,320,FD003,Sea Level,HPC + Fan Degradation
+FD003_28,200,FD003,Sea Level,HPC + Fan Degradation
+FD003_29,223,FD003,Sea Level,HPC + Fan Degradation
+FD003_3,222,FD003,Sea Level,HPC + Fan Degradation
+FD003_30,218,FD003,Sea Level,HPC + Fan Degradation
+FD003_31,183,FD003,Sea Level,HPC + Fan Degradation
+FD003_32,189,FD003,Sea Level,HPC + Fan Degradation
+FD003_33,231,FD003,Sea Level,HPC + Fan Degradation
+FD003_34,459,FD003,Sea Level,HPC + Fan Degradation
+FD003_35,231,FD003,Sea Level,HPC + Fan Degradation
+FD003_36,324,FD003,Sea Level,HPC + Fan Degradation
+FD003_37,324,FD003,Sea Level,HPC + Fan Degradation
+FD003_38,201,FD003,Sea Level,HPC + Fan Degradation
+FD003_39,288,FD003,Sea Level,HPC + Fan Degradation
+FD003_4,272,FD003,Sea Level,HPC + Fan Degradation
+FD003_40,188,FD003,Sea Level,HPC + Fan Degradation
+FD003_41,295,FD003,Sea Level,HPC + Fan Degradation
+FD003_42,193,FD003,Sea Level,HPC + Fan Degradation
+FD003_43,321,FD003,Sea Level,HPC + Fan Degradation
+FD003_44,180,FD003,Sea Level,HPC + Fan Degradation
+FD003_45,205,FD003,Sea Level,HPC + Fan Degradation
+FD003_46,204,FD003,Sea Level,HPC + Fan Degradation
+FD003_47,269,FD003,Sea Level,HPC + Fan Degradation
+FD003_48,174,FD003,Sea Level,HPC + Fan Degradation
+FD003_49,256,FD003,Sea Level,HPC + Fan Degradation
+FD003_5,213,FD003,Sea Level,HPC + Fan Degradation
+FD003_50,161,FD003,Sea Level,HPC + Fan Degradation
+FD003_51,190,FD003,Sea Level,HPC + Fan Degradation
+FD003_52,222,FD003,Sea Level,HPC + Fan Degradation
+FD003_53,164,FD003,Sea Level,HPC + Fan Degradation
+FD003_54,194,FD003,Sea Level,HPC + Fan Degradation
+FD003_55,525,FD003,Sea Level,HPC + Fan Degradation
+FD003_56,195,FD003,Sea Level,HPC + Fan Degradation
+FD003_57,215,FD003,Sea Level,HPC + Fan Degradation
+FD003_58,178,FD003,Sea Level,HPC + Fan Degradation
+FD003_59,299,FD003,Sea Level,HPC + Fan Degradation
+FD003_6,278,FD003,Sea Level,HPC + Fan Degradation
+FD003_60,190,FD003,Sea Level,HPC + Fan Degradation
+FD003_61,199,FD003,Sea Level,HPC + Fan Degradation
+FD003_62,246,FD003,Sea Level,HPC + Fan Degradation
+FD003_63,231,FD003,Sea Level,HPC + Fan Degradation
+FD003_64,195,FD003,Sea Level,HPC + Fan Degradation
+FD003_65,234,FD003,Sea Level,HPC + Fan Degradation
+FD003_66,165,FD003,Sea Level,HPC + Fan Degradation
+FD003_67,263,FD003,Sea Level,HPC + Fan Degradation
+FD003_68,201,FD003,Sea Level,HPC + Fan Degradation
+FD003_69,170,FD003,Sea Level,HPC + Fan Degradation
+FD003_7,424,FD003,Sea Level,HPC + Fan Degradation
+FD003_70,172,FD003,Sea Level,HPC + Fan Degradation
+FD003_71,409,FD003,Sea Level,HPC + Fan Degradation
+FD003_72,232,FD003,Sea Level,HPC + Fan Degradation
+FD003_73,215,FD003,Sea Level,HPC + Fan Degradation
+FD003_74,193,FD003,Sea Level,HPC + Fan Degradation
+FD003_75,259,FD003,Sea Level,HPC + Fan Degradation
+FD003_76,153,FD003,Sea Level,HPC + Fan Degradation
+FD003_77,255,FD003,Sea Level,HPC + Fan Degradation
+FD003_78,221,FD003,Sea Level,HPC + Fan Degradation
+FD003_79,166,FD003,Sea Level,HPC + Fan Degradation
+FD003_8,267,FD003,Sea Level,HPC + Fan Degradation
+FD003_80,147,FD003,Sea Level,HPC + Fan Degradation
+FD003_81,347,FD003,Sea Level,HPC + Fan Degradation
+FD003_82,285,FD003,Sea Level,HPC + Fan Degradation
+FD003_83,181,FD003,Sea Level,HPC + Fan Degradation
+FD003_84,226,FD003,Sea Level,HPC + Fan Degradation
+FD003_85,266,FD003,Sea Level,HPC + Fan Degradation
+FD003_86,341,FD003,Sea Level,HPC + Fan Degradation
+FD003_87,172,FD003,Sea Level,HPC + Fan Degradation
+FD003_88,322,FD003,Sea Level,HPC + Fan Degradation
+FD003_89,207,FD003,Sea Level,HPC + Fan Degradation
+FD003_9,406,FD003,Sea Level,HPC + Fan Degradation
+FD003_90,181,FD003,Sea Level,HPC + Fan Degradation
+FD003_91,156,FD003,Sea Level,HPC + Fan Degradation
+FD003_92,158,FD003,Sea Level,HPC + Fan Degradation
+FD003_93,171,FD003,Sea Level,HPC + Fan Degradation
+FD003_94,392,FD003,Sea Level,HPC + Fan Degradation
+FD003_95,166,FD003,Sea Level,HPC + Fan Degradation
+FD003_96,491,FD003,Sea Level,HPC + Fan Degradation
+FD003_97,275,FD003,Sea Level,HPC + Fan Degradation
+FD003_98,307,FD003,Sea Level,HPC + Fan Degradation
+FD003_99,145,FD003,Sea Level,HPC + Fan Degradation
+FD004_1,321,FD004,Multiple,HPC + Fan Degradation
+FD004_10,354,FD004,Multiple,HPC + Fan Degradation
+FD004_100,261,FD004,Multiple,HPC + Fan Degradation
+FD004_101,260,FD004,Multiple,HPC + Fan Degradation
+FD004_102,194,FD004,Multiple,HPC + Fan Degradation
+FD004_103,224,FD004,Multiple,HPC + Fan Degradation
+FD004_104,203,FD004,Multiple,HPC + Fan Degradation
+FD004_105,170,FD004,Multiple,HPC + Fan Degradation
+FD004_106,266,FD004,Multiple,HPC + Fan Degradation
+FD004_107,183,FD004,Multiple,HPC + Fan Degradation
+FD004_108,304,FD004,Multiple,HPC + Fan Degradation
+FD004_109,325,FD004,Multiple,HPC + Fan Degradation
+FD004_11,301,FD004,Multiple,HPC + Fan Degradation
+FD004_110,186,FD004,Multiple,HPC + Fan Degradation
+FD004_111,297,FD004,Multiple,HPC + Fan Degradation
+FD004_112,340,FD004,Multiple,HPC + Fan Degradation
+FD004_113,184,FD004,Multiple,HPC + Fan Degradation
+FD004_114,161,FD004,Multiple,HPC + Fan Degradation
+FD004_115,131,FD004,Multiple,HPC + Fan Degradation
+FD004_116,344,FD004,Multiple,HPC + Fan Degradation
+FD004_117,342,FD004,Multiple,HPC + Fan Degradation
+FD004_118,543,FD004,Multiple,HPC + Fan Degradation
+FD004_119,187,FD004,Multiple,HPC + Fan Degradation
+FD004_12,272,FD004,Multiple,HPC + Fan Degradation
+FD004_120,177,FD004,Multiple,HPC + Fan Degradation
+FD004_121,194,FD004,Multiple,HPC + Fan Degradation
+FD004_122,174,FD004,Multiple,HPC + Fan Degradation
+FD004_123,226,FD004,Multiple,HPC + Fan Degradation
+FD004_124,170,FD004,Multiple,HPC + Fan Degradation
+FD004_125,239,FD004,Multiple,HPC + Fan Degradation
+FD004_126,302,FD004,Multiple,HPC + Fan Degradation
+FD004_127,235,FD004,Multiple,HPC + Fan Degradation
+FD004_128,248,FD004,Multiple,HPC + Fan Degradation
+FD004_129,190,FD004,Multiple,HPC + Fan Degradation
+FD004_13,256,FD004,Multiple,HPC + Fan Degradation
+FD004_130,166,FD004,Multiple,HPC + Fan Degradation
+FD004_131,370,FD004,Multiple,HPC + Fan Degradation
+FD004_132,254,FD004,Multiple,HPC + Fan Degradation
+FD004_133,489,FD004,Multiple,HPC + Fan Degradation
+FD004_134,247,FD004,Multiple,HPC + Fan Degradation
+FD004_135,149,FD004,Multiple,HPC + Fan Degradation
+FD004_136,205,FD004,Multiple,HPC + Fan Degradation
+FD004_137,225,FD004,Multiple,HPC + Fan Degradation
+FD004_138,178,FD004,Multiple,HPC + Fan Degradation
+FD004_139,251,FD004,Multiple,HPC + Fan Degradation
+FD004_14,253,FD004,Multiple,HPC + Fan Degradation
+FD004_140,298,FD004,Multiple,HPC + Fan Degradation
+FD004_141,199,FD004,Multiple,HPC + Fan Degradation
+FD004_142,209,FD004,Multiple,HPC + Fan Degradation
+FD004_143,184,FD004,Multiple,HPC + Fan Degradation
+FD004_144,297,FD004,Multiple,HPC + Fan Degradation
+FD004_145,228,FD004,Multiple,HPC + Fan Degradation
+FD004_146,303,FD004,Multiple,HPC + Fan Degradation
+FD004_147,234,FD004,Multiple,HPC + Fan Degradation
+FD004_148,193,FD004,Multiple,HPC + Fan Degradation
+FD004_149,261,FD004,Multiple,HPC + Fan Degradation
+FD004_15,224,FD004,Multiple,HPC + Fan Degradation
+FD004_150,149,FD004,Multiple,HPC + Fan Degradation
+FD004_151,351,FD004,Multiple,HPC + Fan Degradation
+FD004_152,262,FD004,Multiple,HPC + Fan Degradation
+FD004_153,168,FD004,Multiple,HPC + Fan Degradation
+FD004_154,203,FD004,Multiple,HPC + Fan Degradation
+FD004_155,295,FD004,Multiple,HPC + Fan Degradation
+FD004_156,139,FD004,Multiple,HPC + Fan Degradation
+FD004_157,298,FD004,Multiple,HPC + Fan Degradation
+FD004_158,399,FD004,Multiple,HPC + Fan Degradation
+FD004_159,288,FD004,Multiple,HPC + Fan Degradation
+FD004_16,184,FD004,Multiple,HPC + Fan Degradation
+FD004_160,187,FD004,Multiple,HPC + Fan Degradation
+FD004_161,303,FD004,Multiple,HPC + Fan Degradation
+FD004_162,313,FD004,Multiple,HPC + Fan Degradation
+FD004_163,285,FD004,Multiple,HPC + Fan Degradation
+FD004_164,380,FD004,Multiple,HPC + Fan Degradation
+FD004_165,255,FD004,Multiple,HPC + Fan Degradation
+FD004_166,269,FD004,Multiple,HPC + Fan Degradation
+FD004_167,263,FD004,Multiple,HPC + Fan Degradation
+FD004_168,196,FD004,Multiple,HPC + Fan Degradation
+FD004_169,227,FD004,Multiple,HPC + Fan Degradation
+FD004_17,151,FD004,Multiple,HPC + Fan Degradation
+FD004_170,161,FD004,Multiple,HPC + Fan Degradation
+FD004_171,399,FD004,Multiple,HPC + Fan Degradation
+FD004_172,273,FD004,Multiple,HPC + Fan Degradation
+FD004_173,457,FD004,Multiple,HPC + Fan Degradation
+FD004_174,370,FD004,Multiple,HPC + Fan Degradation
+FD004_175,156,FD004,Multiple,HPC + Fan Degradation
+FD004_176,180,FD004,Multiple,HPC + Fan Degradation
+FD004_177,242,FD004,Multiple,HPC + Fan Degradation
+FD004_178,170,FD004,Multiple,HPC + Fan Degradation
+FD004_179,435,FD004,Multiple,HPC + Fan Degradation
+FD004_18,343,FD004,Multiple,HPC + Fan Degradation
+FD004_180,344,FD004,Multiple,HPC + Fan Degradation
+FD004_181,134,FD004,Multiple,HPC + Fan Degradation
+FD004_182,205,FD004,Multiple,HPC + Fan Degradation
+FD004_183,190,FD004,Multiple,HPC + Fan Degradation
+FD004_184,379,FD004,Multiple,HPC + Fan Degradation
+FD004_185,259,FD004,Multiple,HPC + Fan Degradation
+FD004_186,163,FD004,Multiple,HPC + Fan Degradation
+FD004_187,273,FD004,Multiple,HPC + Fan Degradation
+FD004_188,254,FD004,Multiple,HPC + Fan Degradation
+FD004_189,239,FD004,Multiple,HPC + Fan Degradation
+FD004_19,210,FD004,Multiple,HPC + Fan Degradation
+FD004_190,381,FD004,Multiple,HPC + Fan Degradation
+FD004_191,297,FD004,Multiple,HPC + Fan Degradation
+FD004_192,190,FD004,Multiple,HPC + Fan Degradation
+FD004_193,197,FD004,Multiple,HPC + Fan Degradation
+FD004_194,145,FD004,Multiple,HPC + Fan Degradation
+FD004_195,159,FD004,Multiple,HPC + Fan Degradation
+FD004_196,174,FD004,Multiple,HPC + Fan Degradation
+FD004_197,170,FD004,Multiple,HPC + Fan Degradation
+FD004_198,164,FD004,Multiple,HPC + Fan Degradation
+FD004_199,176,FD004,Multiple,HPC + Fan Degradation
+FD004_2,299,FD004,Multiple,HPC + Fan Degradation
+FD004_20,245,FD004,Multiple,HPC + Fan Degradation
+FD004_200,225,FD004,Multiple,HPC + Fan Degradation
+FD004_201,378,FD004,Multiple,HPC + Fan Degradation
+FD004_202,241,FD004,Multiple,HPC + Fan Degradation
+FD004_203,324,FD004,Multiple,HPC + Fan Degradation
+FD004_204,211,FD004,Multiple,HPC + Fan Degradation
+FD004_205,242,FD004,Multiple,HPC + Fan Degradation
+FD004_206,263,FD004,Multiple,HPC + Fan Degradation
+FD004_207,379,FD004,Multiple,HPC + Fan Degradation
+FD004_208,290,FD004,Multiple,HPC + Fan Degradation
+FD004_209,161,FD004,Multiple,HPC + Fan Degradation
+FD004_21,227,FD004,Multiple,HPC + Fan Degradation
+FD004_210,167,FD004,Multiple,HPC + Fan Degradation
+FD004_211,146,FD004,Multiple,HPC + Fan Degradation
+FD004_212,229,FD004,Multiple,HPC + Fan Degradation
+FD004_213,197,FD004,Multiple,HPC + Fan Degradation
+FD004_214,128,FD004,Multiple,HPC + Fan Degradation
+FD004_215,361,FD004,Multiple,HPC + Fan Degradation
+FD004_216,244,FD004,Multiple,HPC + Fan Degradation
+FD004_217,200,FD004,Multiple,HPC + Fan Degradation
+FD004_218,236,FD004,Multiple,HPC + Fan Degradation
+FD004_219,190,FD004,Multiple,HPC + Fan Degradation
+FD004_22,211,FD004,Multiple,HPC + Fan Degradation
+FD004_220,202,FD004,Multiple,HPC + Fan Degradation
+FD004_221,274,FD004,Multiple,HPC + Fan Degradation
+FD004_222,202,FD004,Multiple,HPC + Fan Degradation
+FD004_223,247,FD004,Multiple,HPC + Fan Degradation
+FD004_224,268,FD004,Multiple,HPC + Fan Degradation
+FD004_225,418,FD004,Multiple,HPC + Fan Degradation
+FD004_226,194,FD004,Multiple,HPC + Fan Degradation
+FD004_227,287,FD004,Multiple,HPC + Fan Degradation
+FD004_228,279,FD004,Multiple,HPC + Fan Degradation
+FD004_229,280,FD004,Multiple,HPC + Fan Degradation
+FD004_23,280,FD004,Multiple,HPC + Fan Degradation
+FD004_230,250,FD004,Multiple,HPC + Fan Degradation
+FD004_231,194,FD004,Multiple,HPC + Fan Degradation
+FD004_232,273,FD004,Multiple,HPC + Fan Degradation
+FD004_233,289,FD004,Multiple,HPC + Fan Degradation
+FD004_234,207,FD004,Multiple,HPC + Fan Degradation
+FD004_235,199,FD004,Multiple,HPC + Fan Degradation
+FD004_236,225,FD004,Multiple,HPC + Fan Degradation
+FD004_237,212,FD004,Multiple,HPC + Fan Degradation
+FD004_238,187,FD004,Multiple,HPC + Fan Degradation
+FD004_239,365,FD004,Multiple,HPC + Fan Degradation
+FD004_24,186,FD004,Multiple,HPC + Fan Degradation
+FD004_240,149,FD004,Multiple,HPC + Fan Degradation
+FD004_241,332,FD004,Multiple,HPC + Fan Degradation
+FD004_242,222,FD004,Multiple,HPC + Fan Degradation
+FD004_243,327,FD004,Multiple,HPC + Fan Degradation
+FD004_244,267,FD004,Multiple,HPC + Fan Degradation
+FD004_245,205,FD004,Multiple,HPC + Fan Degradation
+FD004_246,161,FD004,Multiple,HPC + Fan Degradation
+FD004_247,211,FD004,Multiple,HPC + Fan Degradation
+FD004_248,184,FD004,Multiple,HPC + Fan Degradation
+FD004_249,255,FD004,Multiple,HPC + Fan Degradation
+FD004_25,150,FD004,Multiple,HPC + Fan Degradation
+FD004_26,297,FD004,Multiple,HPC + Fan Degradation
+FD004_27,163,FD004,Multiple,HPC + Fan Degradation
+FD004_28,202,FD004,Multiple,HPC + Fan Degradation
+FD004_29,247,FD004,Multiple,HPC + Fan Degradation
+FD004_3,307,FD004,Multiple,HPC + Fan Degradation
+FD004_30,297,FD004,Multiple,HPC + Fan Degradation
+FD004_31,263,FD004,Multiple,HPC + Fan Degradation
+FD004_32,219,FD004,Multiple,HPC + Fan Degradation
+FD004_33,201,FD004,Multiple,HPC + Fan Degradation
+FD004_34,276,FD004,Multiple,HPC + Fan Degradation
+FD004_35,221,FD004,Multiple,HPC + Fan Degradation
+FD004_36,143,FD004,Multiple,HPC + Fan Degradation
+FD004_37,388,FD004,Multiple,HPC + Fan Degradation
+FD004_38,177,FD004,Multiple,HPC + Fan Degradation
+FD004_39,202,FD004,Multiple,HPC + Fan Degradation
+FD004_4,274,FD004,Multiple,HPC + Fan Degradation
+FD004_40,206,FD004,Multiple,HPC + Fan Degradation
+FD004_41,279,FD004,Multiple,HPC + Fan Degradation
+FD004_42,280,FD004,Multiple,HPC + Fan Degradation
+FD004_43,223,FD004,Multiple,HPC + Fan Degradation
+FD004_44,203,FD004,Multiple,HPC + Fan Degradation
+FD004_45,177,FD004,Multiple,HPC + Fan Degradation
+FD004_46,321,FD004,Multiple,HPC + Fan Degradation
+FD004_47,375,FD004,Multiple,HPC + Fan Degradation
+FD004_48,322,FD004,Multiple,HPC + Fan Degradation
+FD004_49,446,FD004,Multiple,HPC + Fan Degradation
+FD004_5,193,FD004,Multiple,HPC + Fan Degradation
+FD004_50,172,FD004,Multiple,HPC + Fan Degradation
+FD004_51,285,FD004,Multiple,HPC + Fan Degradation
+FD004_52,357,FD004,Multiple,HPC + Fan Degradation
+FD004_53,304,FD004,Multiple,HPC + Fan Degradation
+FD004_54,197,FD004,Multiple,HPC + Fan Degradation
+FD004_55,344,FD004,Multiple,HPC + Fan Degradation
+FD004_56,347,FD004,Multiple,HPC + Fan Degradation
+FD004_57,193,FD004,Multiple,HPC + Fan Degradation
+FD004_58,281,FD004,Multiple,HPC + Fan Degradation
+FD004_59,177,FD004,Multiple,HPC + Fan Degradation
+FD004_6,331,FD004,Multiple,HPC + Fan Degradation
+FD004_60,218,FD004,Multiple,HPC + Fan Degradation
+FD004_61,244,FD004,Multiple,HPC + Fan Degradation
+FD004_62,297,FD004,Multiple,HPC + Fan Degradation
+FD004_63,170,FD004,Multiple,HPC + Fan Degradation
+FD004_64,184,FD004,Multiple,HPC + Fan Degradation
+FD004_65,351,FD004,Multiple,HPC + Fan Degradation
+FD004_66,175,FD004,Multiple,HPC + Fan Degradation
+FD004_67,167,FD004,Multiple,HPC + Fan Degradation
+FD004_68,163,FD004,Multiple,HPC + Fan Degradation
+FD004_69,226,FD004,Multiple,HPC + Fan Degradation
+FD004_7,221,FD004,Multiple,HPC + Fan Degradation
+FD004_70,185,FD004,Multiple,HPC + Fan Degradation
+FD004_71,312,FD004,Multiple,HPC + Fan Degradation
+FD004_72,308,FD004,Multiple,HPC + Fan Degradation
+FD004_73,181,FD004,Multiple,HPC + Fan Degradation
+FD004_74,244,FD004,Multiple,HPC + Fan Degradation
+FD004_75,230,FD004,Multiple,HPC + Fan Degradation
+FD004_76,152,FD004,Multiple,HPC + Fan Degradation
+FD004_77,148,FD004,Multiple,HPC + Fan Degradation
+FD004_78,250,FD004,Multiple,HPC + Fan Degradation
+FD004_79,218,FD004,Multiple,HPC + Fan Degradation
+FD004_8,230,FD004,Multiple,HPC + Fan Degradation
+FD004_80,305,FD004,Multiple,HPC + Fan Degradation
+FD004_81,187,FD004,Multiple,HPC + Fan Degradation
+FD004_82,197,FD004,Multiple,HPC + Fan Degradation
+FD004_83,184,FD004,Multiple,HPC + Fan Degradation
+FD004_84,159,FD004,Multiple,HPC + Fan Degradation
+FD004_85,277,FD004,Multiple,HPC + Fan Degradation
+FD004_86,232,FD004,Multiple,HPC + Fan Degradation
+FD004_87,259,FD004,Multiple,HPC + Fan Degradation
+FD004_88,388,FD004,Multiple,HPC + Fan Degradation
+FD004_89,168,FD004,Multiple,HPC + Fan Degradation
+FD004_9,334,FD004,Multiple,HPC + Fan Degradation
+FD004_90,212,FD004,Multiple,HPC + Fan Degradation
+FD004_91,354,FD004,Multiple,HPC + Fan Degradation
+FD004_92,191,FD004,Multiple,HPC + Fan Degradation
+FD004_93,196,FD004,Multiple,HPC + Fan Degradation
+FD004_94,249,FD004,Multiple,HPC + Fan Degradation
+FD004_95,239,FD004,Multiple,HPC + Fan Degradation
+FD004_96,270,FD004,Multiple,HPC + Fan Degradation
+FD004_97,262,FD004,Multiple,HPC + Fan Degradation
+FD004_98,245,FD004,Multiple,HPC + Fan Degradation
+FD004_99,167,FD004,Multiple,HPC + Fan Degradation
