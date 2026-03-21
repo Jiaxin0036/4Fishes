@@ -38,13 +38,14 @@ def add_train_rul_labels(train: pd.DataFrame) -> pd.DataFrame:
 
     train = train.merge(max_cycles, on="engine_id", how="left")
     train["rul"] = train["max_cycle"] - train["cycle"]
+    train['cycle_norm'] = train['cycle'] / train['max_cycle']
     train = train.drop(columns=["max_cycle"])
 
     return train
 
 
 def get_feature_columns():
-    return ["op_setting_1", "op_setting_2", "op_setting_3"] + [f"sensor_{i}" for i in range(1, 22)]
+    return ["op_setting_1", "op_setting_2", "op_setting_3"] + [f"sensor_{i}" for i in range(1, 22)] + ["cycle_norm"]
 
 
 def get_last_cycle_rows(df: pd.DataFrame) -> pd.DataFrame:

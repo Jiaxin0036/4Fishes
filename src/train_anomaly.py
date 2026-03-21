@@ -19,7 +19,7 @@ def train_anomaly_model(fd: str = "FD001", healthy_cycle_cutoff: int = 30):
     feature_cols = get_feature_columns()
 
     # Use early cycles as mostly healthy baseline
-    baseline = train[train["cycle"] <= healthy_cycle_cutoff].copy()
+    baseline = train.groupby("engine_id").apply(lambda df: df[df["cycle"] <= df["cycle"].quantile(0.2)]).reset_index(drop=True)
     X = baseline[feature_cols]
 
     scaler = StandardScaler()
